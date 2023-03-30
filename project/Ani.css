@@ -1,0 +1,20 @@
+body
+{
+    background:url("giet1.jpeg");
+    background-size:cover;
+}
+ul li{
+	list-style:none;
+	float:left;
+	padding:22px;
+	background-color:red ;
+	position:relative;
+	left:550px;
+}
+ul li a
+{
+	text-corporation:none;
+	color:blue;
+	font-size:30px;
+	margin-left:30px; 
+}
